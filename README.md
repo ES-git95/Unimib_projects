@@ -1,0 +1,1 @@
+This is a collection of the most relevant university team projects issued during my Data Science Master Degree in Università degli Studi di Milano - Bicocca. If you need clarification about the code, which is partially missing, don't hesitate to ask.
